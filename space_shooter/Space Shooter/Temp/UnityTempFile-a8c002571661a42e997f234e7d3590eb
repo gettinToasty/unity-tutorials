@@ -69,6 +69,7 @@
 -define:UNITY_TEAM_LICENSE
 'Assets/Scripts/DestroyByBoundary.cs'
 'Assets/Scripts/DestroyByContact.cs'
+'Assets/Scripts/DestroyByTime.cs'
 'Assets/Scripts/GameController.cs'
 'Assets/Scripts/Mover.cs'
 'Assets/Scripts/PlayerController.cs'
